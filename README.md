@@ -6,7 +6,7 @@ to check type `java` and `javac` in your cmd prompt or terminal. It should show 
 
 if you dont look up how to install java and set `PATH` variables in Youtube/Google: can also refer [here](https://www.javatpoint.com/how-to-set-path-in-java)
 
-Steps to Run :
+### Steps to Run :
 
 navigate to your working directory using cmd refer here [command-prompt-navigation](https://www.digitalcitizen.life/command-prompt-how-use-basic-commands)
 
